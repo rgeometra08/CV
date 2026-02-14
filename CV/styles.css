@@ -44,7 +44,7 @@ header {
     color: #007aff;
 }
 
-/* SOLO DUE ICONE LATERALI */
+/* 2 ICONE LATERALI */
 .side-icons {
     position: fixed;
     left: 20px;
@@ -484,7 +484,6 @@ footer strong {
 
 @media (max-width: 768px) {
 
-    /* Navbar più compatta */
     .navbar ul {
         flex-direction: row;
         gap: 20px;
@@ -555,8 +554,8 @@ footer strong {
         min-width: 100%;
     }
 
-    /* Contact box più larga */
     .contact-box {
         width: 90%;
     }
+
 }
